@@ -119,5 +119,5 @@ app.views.People = Backbone.View.extend({
 			appRouter.navigate('filter/' + filterType);
 		}
 	}
-	
+
 });
